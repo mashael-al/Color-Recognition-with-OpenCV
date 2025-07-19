@@ -1,4 +1,4 @@
-Color Detection with OpenCV
+Color Recognition with OpenCV
 
 - Description
 A simple Python project to detect a color name and display it when the user clicks on any pixel in an image.
